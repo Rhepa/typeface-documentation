@@ -1,5 +1,4 @@
-   /* Move all CSS to a stylesheet */
-        * { /* Remove default browser spacing */
+        * { 
             margin: 0;
             padding: 0;
         }
